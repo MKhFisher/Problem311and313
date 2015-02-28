@@ -1,0 +1,6 @@
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem311and313\Problem311and313\bin\Debug\Problem311and313.exe.config
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem311and313\Problem311and313\obj\Debug\Problem311and313.csprojResolveAssemblyReference.cache
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem311and313\Problem311and313\bin\Debug\Problem311and313.exe
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem311and313\Problem311and313\bin\Debug\Problem311and313.pdb
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem311and313\Problem311and313\obj\Debug\Problem311and313.exe
+c:\users\michaelf\documents\visual studio 2013\Projects\Problem311and313\Problem311and313\obj\Debug\Problem311and313.pdb
